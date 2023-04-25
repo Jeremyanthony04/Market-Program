@@ -4,5 +4,7 @@ After studying and learning programming fundamentals using python language with 
 
 The Topic that I chose is about shop selling goods which is mainly used to make transactions in the store. I named the store as 'Toko Serbaguna' which sells two main items: stationery and toiletries. Here is the brief explanation of my program:
 
-1. 
+1. The main interface is 
+
+
 
