@@ -37,6 +37,5 @@ The Topic that I chose is about shop selling goods which is mainly used to make 
 
 <img width="616" alt="Screen Shot 2023-04-25 at 20 47 34" src="https://user-images.githubusercontent.com/102398975/234301882-365c0b11-d133-46d9-adb1-c1070018415d.png">
 
-<img width="667" alt="Screen Shot 2023-04-25 at 20 50 34" src="https://user-images.githubusercontent.com/102398975/234301925-4ffb2f55-5f65-4064-bf08-2b7d453a6f98.png">
-
+<img width="671" alt="Screen Shot 2023-04-25 at 21 21 18" src="https://user-images.githubusercontent.com/102398975/234307262-cfefd5be-837e-4fe4-b113-697a74460027.png">
 
