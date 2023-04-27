@@ -30,6 +30,7 @@ This is the output if we input 1 in the second interface. First, this input will
 <img width="570" alt="Screen Shot 2023-04-25 at 20 45 47" src="https://user-images.githubusercontent.com/102398975/234301438-e1108461-905e-4b49-a571-2fd93381c7da.png">
 
 This is the output if we input 1 in the third interface. First, this input will ask what category item you want to change, then it will ask what item you want to change, then input the new stock, new price, new brand and the new date of production.
+
 <img width="579" alt="Screen Shot 2023-04-27 at 20 05 08" src="https://user-images.githubusercontent.com/102398975/234879343-4ca7f2c9-1846-4c7a-a866-60ea53e7ddad.png">
 
 5. The fourth interface is divided into two options, which are to delete specific items based on the category and exit button to the main interface.
