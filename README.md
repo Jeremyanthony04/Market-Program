@@ -14,7 +14,8 @@ This is the output if we input 1 in the first interface.
 <img width="662" alt="Screen Shot 2023-04-27 at 20 53 49" src="https://user-images.githubusercontent.com/102398975/234883968-b76d3ac9-e0a9-4378-b845-868b248a254f.png">
 
 This is the output if we input 2 in the first interface, in which we need to input either 'alat tulis' or 'peralatan mandi' and if we input other than that, it will force the user to input either the two of them.
-<img width="662" alt="Screen Shot 2023-04-27 at 20 00 38" src="https://user-images.githubusercontent.com/102398975/234879040-0479e371-c971-4de3-8b23-52f78cb7b0ec.png">
+<img width="664" alt="Screen Shot 2023-04-27 at 21 08 21" src="https://user-images.githubusercontent.com/102398975/234887966-db3452f7-cfce-45b2-924e-f62614794b38.png">
+
 
 This is the output if we input 3 in the first interface. It will direct the user into the main interface. This is named 'Kembali ke menu utama' and it works the same for every option inside the main option starting from option 2 to 4.
 <img width="652" alt="Screen Shot 2023-04-25 at 20 42 15" src="https://user-images.githubusercontent.com/102398975/234301382-79e73cb9-ccc0-487d-9990-4d687db9660e.png">
@@ -46,7 +47,6 @@ This is the output if we input 1 in the fourth interface. First, it will ask the
 
 7. This the output of the last interface (Exit) which ends the program.
 <img width="395" alt="Screen Shot 2023-04-25 at 20 51 00" src="https://user-images.githubusercontent.com/102398975/234301716-f04eab83-1bac-4391-beed-2857f3c98a90.png">
-
 
 
 
