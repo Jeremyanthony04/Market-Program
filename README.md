@@ -11,7 +11,7 @@ The Topic that I chose is about shop selling goods which is mainly used to make 
 <img width="665" alt="Screen Shot 2023-04-25 at 20 39 46" src="https://user-images.githubusercontent.com/102398975/234301747-68f35671-9ee9-4373-b261-72c10bb87c31.png"> 
 
 This is the output if we input 1 in the first interface.
-<img width="690" alt="Screen Shot 2023-04-27 at 19 59 50" src="https://user-images.githubusercontent.com/102398975/234879007-8401c8a5-b961-47d5-a783-34e7ffe80a4b.png">
+<img width="662" alt="Screen Shot 2023-04-27 at 20 53 49" src="https://user-images.githubusercontent.com/102398975/234883968-b76d3ac9-e0a9-4378-b845-868b248a254f.png">
 
 This is the output if we input 2 in the first interface, in which we need to input either 'alat tulis' or 'peralatan mandi' and if we input other than that, it will force the user to input either the two of them.
 <img width="662" alt="Screen Shot 2023-04-27 at 20 00 38" src="https://user-images.githubusercontent.com/102398975/234879040-0479e371-c971-4de3-8b23-52f78cb7b0ec.png">
@@ -45,7 +45,6 @@ This is the output if we input 1 in the fourth interface. First, it will ask the
 
 7. This the output of the last interface (Exit) which ends the program.
 <img width="395" alt="Screen Shot 2023-04-25 at 20 51 00" src="https://user-images.githubusercontent.com/102398975/234301716-f04eab83-1bac-4391-beed-2857f3c98a90.png">
-
 
 
 
