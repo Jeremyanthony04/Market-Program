@@ -27,12 +27,16 @@ This is the output if we input 1 in the second interface. First, this input will
 
 <img width="588" alt="Screen Shot 2023-04-27 at 20 03 02" src="https://user-images.githubusercontent.com/102398975/234879300-03f6856f-d43b-468e-a672-a7104e66d64a.png">
 
-4. The third interface is divided into two options, which are to change a particular good depending on the categories we choose and exit to the main interface.
-<img width="570" alt="Screen Shot 2023-04-25 at 20 45 47" src="https://user-images.githubusercontent.com/102398975/234301438-e1108461-905e-4b49-a571-2fd93381c7da.png">
+4. The third interface is divided into four options, which are to change a particular good depending on the categories we choose, add stock and release stock depending of the certain items depending the category we choose and exit to the main interface.
+<img width="547" alt="Screen Shot 2023-05-03 at 23 52 20" src="https://user-images.githubusercontent.com/102398975/235985920-d502cdc6-6c4c-4086-af2e-100bae1e962f.png">
 
 This is the output if we input 1 in the third interface. First, this input will ask what category item you want to change, then it will ask what item you want to change, then input the new stock, new price, new brand and the new date of production.
 
 <img width="579" alt="Screen Shot 2023-04-27 at 20 05 08" src="https://user-images.githubusercontent.com/102398975/234879343-4ca7f2c9-1846-4c7a-a866-60ea53e7ddad.png">
+
+If we input 2 in the second interface, it will be used to add stock to certain items that we choose depending the category.
+
+If we input 3 in the third interface, it will be used to release the stock of certain items that we choose.
 
 5. The fourth interface is divided into two options, which are to delete specific items based on the category and exit button to the main interface.
 <img width="596" alt="Screen Shot 2023-04-25 at 20 49 18" src="https://user-images.githubusercontent.com/102398975/234301678-e47b04dd-4b49-4dac-bfae-1857cc6c8201.png">
